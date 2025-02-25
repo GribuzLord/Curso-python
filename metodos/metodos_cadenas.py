@@ -23,3 +23,5 @@ cadea8="Hola, nueva cadena para el commit"
 
 #ayuda
 cadena1999="Esto es otra prueba"
+
+cadenaprueba="Pruebaaaa"
